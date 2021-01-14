@@ -1,10 +1,6 @@
 ## Hi there 👋
 ### This is epic 😆😆
 
-```Fork It
-https://github.com/Mister-maker/cricksoldier.git
-```
-
 
 **CrickSoldier/cricksoldier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
