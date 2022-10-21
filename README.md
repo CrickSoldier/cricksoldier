@@ -1,7 +1,7 @@
 # <p align="center">👋 Hi there, I am Shivam Bhardwaj</p>
 ## <p align="center">Interested in Techs !!!</p>
 
-### Skills: <img src="https://badges.aleen42.com/src/javascript.svg">  <img src="https://badges.aleen42.com/src/react.svg">   <img src="https://badges.aleen42.com/src/node.svg">  <img src="https://badges.aleen42.com/src/tailwindcss.svg">  <img src="https://badges.aleen42.com/src/typescript.svg">  <img src="https://badges.aleen42.com/src/webpack.svg">   <img src="https://img.shields.io/static/v1?label=redux-toolkit&message=1.6.1&color=blueviolet">
+
 
 
 
